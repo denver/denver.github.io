@@ -1,5 +1,5 @@
-# denverpeterson.github.io
+#denver.github.io
 
-Denver Peterson
-
-here lies my first development branch change.
+This is my personal website.  
+Among others.  
+Hopefully I'll have some time to add some fun things to the repo as I experiment with JavaScript, Python, SVG and other languages I'm interested in developing.
