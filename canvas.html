@@ -1,29 +1,49 @@
-<!-- canvas.html -->
-<!-- <!doctype html>  -->
 <html>
   <head>
     <title>Canvas</title>
-    <style>
-      #myCanvas 
+    <style type="text/css">
+      canvas 
       {
-        border: 3px solid black;
+        border:#666 3px solid;
       }
     </style>
     <script>
-      window.onload = function()
-      {
-        var myCanvas = document.getElementById('myCanvas');
-        var ctx = myCanvas.getContext("2d");
-
-        ctx.beginPath();
-        ctx.arc(200,150, 100, 0, Math.Pi*2,true);
-        ctx.closePath();
-        ctx.fill();
+      function draw (x,y){
+        var canvas = document.getElementById('canvas');
+        var ctx = canvas.getContext('2d');
+        ctx.save();
+        ctx.clearRect(0,0,550,400);
+        ctx.fillStyle = "rgba(0,200,0,1)";
+        ctx.fillRect (x, 20, 50, 50);
+        ctx.restore();
+        x += 3;
+        var loopTimer = setTimeout('draw('+x+','+y+')',20);
       }
+      // window.onload = function()
+      // {
+      //   var myCanvas = document.getElementById('myCanvas');
+      //   var ctx = myCanvas.getContext("2d");
+      //   var cty = myCanvas.getContext("2d");
+
+      //   ctx.beginPath();
+      //   // ctx.fillStyle = "#bb0000"
+      //   ctx.strokeStyle = "#0000bb";
+      //   ctx.lineWidth = 3;
+      //   ctx.arc(150,150, 25, 0, Math.PI*2,true);
+      //   ctx.closePath();
+      //   // ctx.fill();
+      //   ctx.stroke();
+
+      //   // cty.beginPath();
+      //   // cty.arc(150,150, 50, 0, Math.PI*2,true);
+      //   // cty.closePath();
+      // };
     </script>
   </head>
     <body>
-      <canvas id="myCanvas" width="400" height="300"></canvas> 
+      <canvas id="canvas" width="550" height="400"></canvas>
+      <button onclick="draw(0,0);">Draw</button> 
+
 
     </body>
 
