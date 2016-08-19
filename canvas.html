@@ -1,0 +1,30 @@
+<!-- canvas.html -->
+<!-- <!doctype html>  -->
+<html>
+  <head>
+    <title>Canvas</title>
+    <style>
+      #myCanvas 
+      {
+        border: 3px solid black;
+      }
+    </style>
+    <script>
+      window.onload = function()
+      {
+        var myCanvas = document.getElementById('myCanvas');
+        var ctx = myCanvas.getContext("2d");
+
+        ctx.beginPath();
+        ctx.arc(200,150, 100, 0, Math.Pi*2,true);
+        ctx.closePath();
+        ctx.fill();
+      }
+    </script>
+  </head>
+    <body>
+      <canvas id="myCanvas" width="400" height="300"></canvas> 
+
+    </body>
+
+</html>
