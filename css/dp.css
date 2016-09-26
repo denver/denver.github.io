@@ -1,0 +1,40 @@
+
+svg {
+	height: auto;
+	width: 50%;
+}
+
+line {
+	stroke : black;
+	stroke-width : 5px;
+}
+
+text {
+	font-size: 70px;
+	text-anchor: middle;
+	font-family: Helvetica;
+	stroke: #000;
+	stroke-width:3px;
+	fill:#F6F7F3;
+}
+
+circle {
+	fill: none;
+	stroke:#008B6F;
+	stroke-width: 7px;
+}
+
+polygon {
+	fill: #008B6F;
+	stroke: #000;
+	stroke-width: 2px;
+}
+
+.triangle_group polygon {
+	stroke-width: 1px;
+}
+
+.defined-icon {
+	display: none;
+	
+}
