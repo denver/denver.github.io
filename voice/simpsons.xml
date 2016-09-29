@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say voice="alice" language="en-GB">Hello Mark. I hope you like this. 
+  </Say>
+  <Pause length="1"/>
+  <Play>https://denver.github.io/voice/simpsons/homer_easytoblameapu.wav</Play>
+  <Say voice="man">I'm going to go to sleep for an hour then hangup so do your thang buddy.</Say>
+  <Pause length="3600"/>
+</Response>
