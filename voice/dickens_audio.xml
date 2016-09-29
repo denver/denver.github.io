@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Response><Say voice="alice">Good evening.</Say><Pause length="1"/><Say voice="alice"I''m glad you''re here. Tonight we''ll be reading a classic.</Say><Pause length="3"/><Say voice="alice">
+<Response><Say voice="alice">Good evening.</Say><Pause length="1"/><Say voice="alice">I am glad you are here. Tonight we will be reading a classic book.</Say><Pause length="3"/><Say voice="alice">
 A TALE OF TWO CITIES
 
 A STORY OF THE FRENCH REVOLUTION
