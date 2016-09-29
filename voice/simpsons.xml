@@ -5,5 +5,6 @@
   <Pause length="1"/>
   <Play>https://denver.github.io/voice/simpsons/homer_easytoblameapu.wav</Play>
   <Say voice="man">I'm going to go to sleep for an hour then hangup so do your thang buddy.</Say>
+  <Play>http://www.richmolnar.com/Sounds/Homer%20-%20Mmmm,%20beer.wav</Play>
   <Pause length="3600"/>
 </Response>
