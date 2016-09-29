@@ -7,4 +7,6 @@
   </Say>
   <Say voice="man" loop="10">Welcome to Loop Up.
   </Say>
+  <Say voice="man">I'm going to go to sleep for an hour then hangup so do your thang buddy.</Say>
+  <Pause length="3600"/>
 </Response>
