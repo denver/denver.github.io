@@ -1,0 +1,25 @@
+
+svg {
+	height: auto;
+	width: 50%;
+}
+
+circle {
+	opacity: .25;
+}
+
+circle:hover {
+	opacity: 1;
+}
+
+.go {
+	fill: green;
+}
+
+.warning {
+	fill: yellow;
+}
+
+.stop {
+	fill: red;
+}
