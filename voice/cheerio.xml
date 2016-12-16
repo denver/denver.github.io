@@ -1,2 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Response><Say voice="alice" language="en-GB">In call welcome to the new Hello World Denver. Thanks for the call. I love what you've done with the place.</Say><Pause length="1"/><Say voice="alice" language="en-GB">Let us know if you got any other great ideas you have. Seriously, I could go on and on. And I will. Until someone pulls the trigger and makes the ccd call. Now I'm out of here peace out homie slice. How long did this take to get to the end. I hope it is at least two minutes.</Say></Response>
+<Response>
+    <Reject reason="busy" />
+</Response>
