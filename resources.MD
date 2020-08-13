@@ -6,6 +6,7 @@ https://flatuicolors.com/
 http://www.colorpicker.com/  
 http://www.flaticon.com/  
 http://mashable.com/2013/08/14/flat-design-icons/#kPXSQpm0Fgql
+http://fontawesome.io/
 
 #css 
 
@@ -13,6 +14,7 @@ http://www.cssfontstack.com/
 https://css-tricks.com/snippets/  
 https://www.google.com/fonts  
 https://fonts.google.com/  
+http://colours.neilorangepeel.com/
 
 #javascript 
 
