@@ -1,4 +1,3 @@
-#denver.github.io
+# denver.github.io
 
-This is my personal website, among others.
-Hopefully I'll have some time to add some fun things to the repo as I experiment with JavaScript, Python, SVG and other languages I'm interested in developing.
+Today I Learned (TIL) blog and personal site. 
