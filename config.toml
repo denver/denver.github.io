@@ -1,5 +1,5 @@
 baseURL = "https://denver.github.io/"
 languageCode = "en-us"
-title = "Denver's Today I Learned Blog"
-theme = "hugo-theme-casper"
+title = "denver"
+theme = "introduction"
 
