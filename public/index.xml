@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Denver&#39;s Today I Learned Blog</title>
+    <title>denver</title>
     <link>https://denver.github.io/</link>
-    <description>Recent content on Denver&#39;s Today I Learned Blog</description>
+    <description>Recent content on denver</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://denver.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://denver.github.io/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://denver.github.io/home/</guid>
+      <description>Hi, my name is Denver. I&amp;rsquo;m a software engineer living in San Francisco. I&amp;rsquo;m interested in Golang, javascript, devops and observability.</description>
+    </item>
+    
   </channel>
 </rss>
