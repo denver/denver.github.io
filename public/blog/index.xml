@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>denver</title>
-    <link>https://denver.github.io/</link>
-    <description>Recent content on denver</description>
+    <title>til: today i learned on denver</title>
+    <link>https://denver.github.io/blog/</link>
+    <description>Recent content in til: today i learned on denver</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Jun 2021 21:58:21 -0700</lastBuildDate><atom:link href="https://denver.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Jun 2021 21:57:35 -0700</lastBuildDate><atom:link href="https://denver.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hello hugo</title>
       <link>https://denver.github.io/blog/hellohugo/</link>
@@ -19,24 +19,6 @@ What do they say?
  The best time to start a blog was 30 years ago, the next best time is today.
  &amp;hellip; or something like that.
 I&amp;rsquo;m playing around with some hugothemes tonight. Hopefully I&amp;rsquo;ll manage to at least keep the content going. My intention is to keep this content short. My inspiration is something akin to the Today I Learned (til) format.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://denver.github.io/about/</link>
-      <pubDate>Mon, 31 May 2021 19:24:04 -0700</pubDate>
-      
-      <guid>https://denver.github.io/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://denver.github.io/home/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://denver.github.io/home/</guid>
-      <description>Hi, my name is Denver. I&amp;rsquo;m a software engineer living in San Francisco. I&amp;rsquo;m interested in Golang, javascript, devops and observability.</description>
     </item>
     
   </channel>
