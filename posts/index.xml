@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - denver</title>
+        <link>https://denver.github.io/posts/</link>
+        <description>All Posts | denver</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 02 Jun 2021 21:58:21 -0700</lastBuildDate><atom:link href="https://denver.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>hello hugo</title>
+    <link>https://denver.github.io/posts/hellohugo/</link>
+    <pubDate>Wed, 02 Jun 2021 21:58:21 -0700</pubDate>
+    <author>Author</author>
+    <guid>https://denver.github.io/posts/hellohugo/</guid>
+    <description><![CDATA[&ldquo;Hello World&rdquo;, or should I say &ldquo;Hello Hugo.&rdquo;
+I&rsquo;ve wanted to start blogging again for sometime now.
+What do they say?
+ The best time to start a blog was 30 years ago, the next best time is today.
+ &hellip; or something like that.
+I&rsquo;m playing around with some hugothemes tonight. Hopefully I&rsquo;ll manage to at least keep the content going. My intention is to keep this content short. My inspiration is something akin to the Today I Learned (til) format.]]></description>
+</item></channel>
+</rss>
