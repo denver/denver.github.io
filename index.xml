@@ -3,9 +3,17 @@
         <title>denver</title>
         <link>https://denver.github.io/</link>
         <description>denver</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 02 Jun 2021 21:58:21 -0700</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Jun 2021 16:49:02 -0700</lastBuildDate>
             <atom:link href="https://denver.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Hugo &#43; Github Actions</title>
+    <link>https://denver.github.io/posts/githubactions/</link>
+    <pubDate>Sun, 06 Jun 2021 16:49:02 -0700</pubDate>
+    <author>Author</author>
+    <guid>https://denver.github.io/posts/githubactions/</guid>
+    <description><![CDATA[I&rsquo;ll admit, I was having a little difficulty understanding how to organize and deploy my first hugo site. Every time I pushed changes, Github Pages wasn&rsquo;t deploying the site the way I was expecting. I missed a small but critical step.
+In the post I referenced in my first post hello hugo, I missed the step to cd public then push. I was pushing the entire project and hoping there was some hugo magic that would work under the hood to render the site once deployed.]]></description>
+</item><item>
     <title>hello hugo</title>
     <link>https://denver.github.io/posts/hellohugo/</link>
     <pubDate>Wed, 02 Jun 2021 21:58:21 -0700</pubDate>
@@ -16,6 +24,6 @@ I&rsquo;ve wanted to start blogging again for sometime now.
 What do they say?
  The best time to start a blog was 30 years ago, the next best time is today.
  &hellip; or something like that.
-I&rsquo;m playing around with some hugothemes tonight. Hopefully I&rsquo;ll manage to at least keep the content going. My intention is to keep this content short. My inspiration is something akin to the Today I Learned (til) format.]]></description>
+I&rsquo;m playing around with a few hugo themes tonight. Hopefully I&rsquo;ll manage to at least keep the content going. My intention is to keep this content short.]]></description>
 </item></channel>
 </rss>
